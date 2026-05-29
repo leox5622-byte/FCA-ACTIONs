@@ -1,0 +1,8 @@
+{
+  "name": "dora-actions-test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@neoaz07/nkxfca": "^1.0.10"
+  }
+}
